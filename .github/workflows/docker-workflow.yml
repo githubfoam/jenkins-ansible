@@ -3,7 +3,7 @@ name: "Ubuntu jenkins docker CI workflow"
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   schedule:
       - cron:  '0 0 * * 0' #At 00:00 on Sunday every week
 
