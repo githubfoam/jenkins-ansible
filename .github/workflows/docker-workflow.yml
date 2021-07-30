@@ -1,4 +1,4 @@
-name: "Ubuntu jenkins docker CI workflow"
+name: "Ubuntu jenkins ansible CI workflow"
 
 
 on:
